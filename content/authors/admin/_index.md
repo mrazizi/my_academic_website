@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohammad-Reza Azizi
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student, Artificial Intelligence
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Amirkabir University of Technology (Tehran Polytechnic)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
