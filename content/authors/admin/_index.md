@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student, Artificial Intelligence
+role: Graduate Student, Data Scientist
 
 
 # Organizations/Affiliations
 organizations:
 - name: Amirkabir University of Technology (Tehran Polytechnic)
-  url: ""
+  url: "https://aut.ac.ir/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
