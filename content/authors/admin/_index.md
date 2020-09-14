@@ -17,6 +17,8 @@ role: Graduate Student, Data Scientist
 organizations:
 - name: Amirkabir University of Technology (Tehran Polytechnic)
   url: "https://aut.ac.ir/en"
+- name: Part AI Research Center
+  url: "https://partdp.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
