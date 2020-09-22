@@ -24,21 +24,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Neural Networks
+- Speech Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Artificial Intelligence and Robotics
+    institution: Amirkabir University of Technology (Tehran Polytechnic)
+    year: 2019 - PRESENT
+  - course: BSc in Computer Engineering
+    institution: Ferdowsi University of Mashhad
+    year: 2014 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
